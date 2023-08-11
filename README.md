@@ -54,4 +54,4 @@ If you have any questions, suggestions, or would like to collaborate, feel free 
 - Email : kharrbesh@gmail.com
 - LinkedIn Profile : https://www.linkedin.com/in/mohamed-roshdy-kharboush-4015a3238/
 
-Let's embark on this exciting journey to uncover the wonders of Adélie, Gentoo, and Chinstrap Penguins in their icy Antarctic habitat! Your contributions and insights are highly valued.
+
