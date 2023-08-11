@@ -1,8 +1,7 @@
 # Penguin-in-Antarctica-EDA Project
 
-![](http://d3i3l3kraiqpym.cloudfront.net/wp-content/uploads/2016/04/26094914/Ad%C3%A9lie-Chinstrap-and-gentoo-penguin-species.jpg)
-
 Welcome to the **Penguin-in-Antarctica-EDA** project repository! This repository serves as the hub for our exploratory data analysis (EDA) focused on three fascinating penguin species: Adélie, Gentoo, and Chinstrap Penguins. Our goal is to gain insights into these iconic species that inhabit Antarctica, its nearby islands, and the sub-Antarctic archipelagos of South Georgia and the Falklands.
+![](http://d3i3l3kraiqpym.cloudfront.net/wp-content/uploads/2016/04/26094914/Ad%C3%A9lie-Chinstrap-and-gentoo-penguin-species.jpg)
 
 ## About Penguin Species
 
@@ -17,17 +16,6 @@ For this EDA phase, our attention will be primarily directed towards the followi
 3. **Chinstrap Penguins**: Easily recognizable by the narrow black band under their heads, Chinstrap penguins are a vital part of the Antarctic ecosystem. We'll investigate their population trends, interactions with other species, and other intriguing aspects.
 ![](https://raw.githubusercontent.com/allisonhorst/palmerpenguins/master/man/figures/lter_penguins.png)
 
-## Repository Structure
-
-This repository is organized to provide a smooth and structured workflow for our EDA. Here's an overview of the key directories and files:
-
-- **data**: This directory contains the dataset(s) we will be using for our analysis. Make sure to include any relevant data files here.
-
-- **notebooks**: You'll find Jupyter notebooks in this directory. These notebooks will contain the code for data cleaning, visualization, statistical analysis, and any machine learning exploration we undertake.
-
-- **images**: Store any images or visual resources that will be used in this README, the notebooks, or any reports.
-
-- **reports**: If we generate detailed analysis reports or summaries, they will be stored in this directory.
 
 ## Key Insights from Initial Analysis
 
@@ -50,7 +38,7 @@ If you'd like to contribute to this project or use our analysis for your researc
 1. **Clone the Repository**: Start by cloning this repository to your local machine using the following command:
    
    ```bash
-   git clone https://github.com/your-username/Penguin-in-Antarctica-EDA.git
+   git clone https://github.com/MohamedR4dy/Penguin-in-Antarctica-EDA.git
    ```
 
 2. **Install Dependencies**: If there are specific Python packages required for the analysis, make sure to create a virtual environment and install the dependencies mentioned in the project's documentation.
@@ -63,8 +51,7 @@ If you'd like to contribute to this project or use our analysis for your researc
 
 If you have any questions, suggestions, or would like to collaborate, feel free to contact us:
 
-- Your Name
-- Your Email
-- LinkedIn Profile (if applicable)
+- Email : kharrbesh@gmail.com
+- LinkedIn Profile : https://www.linkedin.com/in/mohamed-roshdy-kharboush-4015a3238/
 
 Let's embark on this exciting journey to uncover the wonders of Adélie, Gentoo, and Chinstrap Penguins in their icy Antarctic habitat! Your contributions and insights are highly valued.
