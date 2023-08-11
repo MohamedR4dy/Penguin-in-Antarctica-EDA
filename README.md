@@ -62,7 +62,7 @@ If you'd like to contribute to this project or use our analysis for your researc
 1. **Clone the Repository**: Start by cloning this repository to your local machine using the following command:
    
    ```bash
-   git clone https://github.com/MohamedR4dy/Penguin-in-Antarctica-EDA.git
+    https://github.com/MohamedR4dy/Penguin-in-Antarctica-EDA
    ```
 
 2. **Install Dependencies**: If there are specific Python packages required for the analysis, make sure to create a virtual environment and install the dependencies mentioned in the project's documentation.
