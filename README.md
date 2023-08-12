@@ -55,21 +55,15 @@ Our initial data exploration has revealed some interesting findings about the pe
 - As gender does not seem pivotal in distinguishing penguin species, we can consider dropping the gender column while building machine learning models.
 
 
-## Getting Started
+## Tools Used
 
-If you'd like to contribute to this project or use our analysis for your research, here's how to get started:
 
-1. **Clone the Repository**: Start by cloning this repository to your local machine using the following command:
-   
-   ```bash
-    https://github.com/MohamedR4dy/Penguin-in-Antarctica-EDA
-   ```
-
-2. **Install Dependencies**: If there are specific Python packages required for the analysis, make sure to create a virtual environment and install the dependencies mentioned in the project's documentation.
-
-3. **Explore Notebooks**: Navigate to the `notebooks` directory and explore the Jupyter notebooks. These notebooks will guide you through our data analysis process.
-
-4. **Contribute**: If you're interested in contributing to the project, fork the repository, make your changes, and submit a pull request. We welcome new insights, visualizations, or any improvements you can offer.
+1. **Jupyter Notebooks**
+2. **Python**
+3. **Numpy**
+4. **Pandas**
+5. **Matplotlib**
+6. **Seaborn**
 
 ## Contact Information
 
